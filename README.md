@@ -14,6 +14,7 @@ REST API для банка
 ### Примеры работы:
 
 GET-запрос
+
 ![f](https://github.com/Padking/rest_debt/blob/master/screenshots/get.jpg)
 
 POST-запрос
