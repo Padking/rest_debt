@@ -14,19 +14,19 @@ REST API для банка
 ### Примеры работы:
 
 GET-запрос
-![f]()
+![f](https://github.com/Padking/rest_debt/blob/master/screenshots/get.jpg)
 
 POST-запрос
-![s]()
+![s](https://github.com/Padking/rest_debt/blob/master/screenshots/post.jpg)
 
 PUT-запрос (успешное списание)
-![t]()
+![t](https://github.com/Padking/rest_debt/blob/master/screenshots/put_pass.jpg)
 
 PUT-запрос (неудавшееся списание)
-![f]()
+![f](https://github.com/Padking/rest_debt/blob/master/screenshots/put_fail.jpg)
 
 DELETE-запрос
-![fi]()
+![fi](https://github.com/Padking/rest_debt/blob/master/screenshots/del.jpg)
 
 
 ### Требования к окружению:
